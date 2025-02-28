@@ -22,7 +22,7 @@ body {
   position: relative;
   background-image: url(../images/road.png);
   background-size: cover;
-  animation: slide 5s linear infinite;
+  animation: slide 3s linear infinite;
 }
 
 @keyframes slide {
